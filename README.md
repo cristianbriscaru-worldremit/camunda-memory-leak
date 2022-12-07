@@ -6,3 +6,5 @@
 3) analyze heapdump.hprof with VisualVM or similar tool and observe org.apache.ibatis.session.defaults.DefaultSqlSessionFactory which is used by Camunda Engine has a memory leak
 
 
+### Reported issue with camunda
+[Issue 3002](https://github.com/camunda/camunda-bpm-platform/issues/3002)
